@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BLE Audio Controller</string>
+    <string name="sBTstaNF">Status: Bluetooth not found</string>
+    <string name="sBTdevNF">"Bluetooth device not found!"</string>
+</resources>
